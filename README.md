@@ -10,6 +10,9 @@
   <a href="https://codecov.io/gh/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c"> <img src="https://codecov.io/gh/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c/branch/main/graph/badge.svg" alt="Coverage Status"> </a>
 </p>
 
+
+
+
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#build">Build</a> •
