@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">Pure C WebRTC Client for Amazon Kinesis Video Streams </h4>
+<h4 align="center"> C WebRTC Client for Amazon Kinesis Video Streams </h4>
 
 <p align="center">
   <a href="https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c/actions/workflows/ci.yml"> <img src="https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c/actions/workflows/ci.yml/badge.svg"> </a>
